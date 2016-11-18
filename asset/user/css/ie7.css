@@ -1,0 +1,111 @@
+/* God I hate Microsoft! */
+#header {
+   z-index: 1200;
+}
+#header #cart {
+	width: 420px;
+}
+
+#l_options {
+	border: 1px solid #DDD;
+}
+#c_options {
+	border: 1px solid #DDD;
+}
+#header #cart .content {
+	border: 1px solid #DDD;
+}
+.cloud-zoom-big {
+	border: 1px solid #DDD;
+}
+#header #search {
+	float: right;
+}
+#header .button-search {
+/*	top: 1px;*/
+}
+#header #search input {
+
+}
+/* menu */
+#menu ul li {
+}
+#menu ul li a {
+	height: 32px;
+}
+#menu ul li div {
+	min-width: 188px;		
+}
+#menu ul li:hover div {
+	display: block; 
+}
+#menu ul li ul {
+}
+#menu ul li ul li a {
+	height: auto;
+	display: block;
+}
+.success, .warning, .attention, .information {
+	position: relative;
+}
+.success .close, .warning .close, .attention .close, .information .close {
+	position: absolute;
+	right: 10px;
+}
+.box-product > div {
+	display: inline;
+}
+.product-grid > div {
+	display: inline;
+}
+.product-grid .product_holder {
+	display: inline;
+	float: none;
+}
+.products_container .product_holder {
+	display: inline;
+	float: none;
+}
+.products_container .product_holder_inside {
+	padding-bottom: 0;
+}
+.product-info .cart div  {
+	background: #fff;
+}
+
+.product_holder .price .price-old {
+	position: relative;
+	z-index: 9999;
+	top: 3px;
+}
+
+/* button */
+.product-info a.button span {
+	line-height: 12px;
+	display: block;
+}
+
+.products_container {
+	margin-bottom: 14px;
+}
+#tab-review .ie_left{
+	padding-left: 0px;
+}
+
+.cart-info tbody .quantity input{
+	position: relative;
+	top: 4px;
+	cursor: pointer;
+}
+.checkout-heading a {
+	float: right;
+	margin:-16px 0 0;
+	padding: 0;
+	text-decoration: none;
+}
+.product-list .left {
+	margin-top: 26px;
+}
+.tags {
+	margin-top: 10px;
+}
